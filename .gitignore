@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/adapters/buckpal-persistence/build/
+/adapters/buckpal-persistence/build/classes/java/main/
+/adapters/buckpal-web/build/
+/adapters/build/
+/buckpal-application/build/
+/buckpal-application/build/classes/java/main/
+/buckpal-configuration/build/
+/build/
+/common/build/

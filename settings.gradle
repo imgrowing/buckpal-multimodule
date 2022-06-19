@@ -1,0 +1,7 @@
+rootProject.name = 'buckpal'
+
+include 'common'
+include 'adapters:buckpal-web'
+include 'adapters:buckpal-persistence'
+include 'buckpal-configuration'
+include 'buckpal-application'
